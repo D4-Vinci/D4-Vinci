@@ -2,7 +2,7 @@
 - 👀 I’m interested in computers, sports, girls, getting rich.
 - 🌱 I’m currently learning to program.
 - 💞️ I’m looking to collaborate on various projects.
-- 📫 How to reach me - via mail, or by insta @officialy_tino.
+- 📫 How to reach me - you've already reached me
 
 <!---
 D4-Vinci/D4-Vinci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
